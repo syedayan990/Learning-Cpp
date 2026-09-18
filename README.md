@@ -1,6 +1,3 @@
-# Learning-C-
-C++ Data Structures &amp; Algorithms — concepts, implementations, and problem solving.
-
 # Learning C++
 
 A complete collection of my C++ learning journey, covering fundamental concepts, programming techniques, object-oriented programming, STL, and practical coding exercises.
